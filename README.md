@@ -1,0 +1,2 @@
+# AI-Interview-copilot-Analyze-and-test-your-skills-for-real-interview.
+Interview AI Pilot is an intelligent interview preparation assistant that simulates real interview scenarios, asks role-specific questions, and provides instant feedback. It helps users improve communication, confidence, and technical skills through personalized insights, practice sessions, and performance analysis to boost interview .
